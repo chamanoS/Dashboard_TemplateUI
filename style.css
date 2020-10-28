@@ -135,7 +135,7 @@ body{
     margin-top: 60px;
     padding: 20px;
     margin-left: 250px;
-    background: url(background.png) no-repeat;
+    background: url(shofa.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -158,13 +158,14 @@ body{
     display: none;
   }
   
-  .content .card p{
+  /* .content .card p{
     background: #fff;
     padding: 15px;
     margin-bottom: 10px;
     font-size: 14px;
     opacity: 0.8;
-  }
+    align-items: center;
+  } */
 
   /* Responsive CSS */
 
